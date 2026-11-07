@@ -37,12 +37,6 @@
 
 ---
 
-### 📊 開發活動與統計
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shernwu-creator&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Shern's GitHub Stats" />
-</p>
-
 ### 📫 聯絡方式
 * 歡迎透過 [GitHub Issues] 或 Email 與我交流技術與合作機會！
 <!--
